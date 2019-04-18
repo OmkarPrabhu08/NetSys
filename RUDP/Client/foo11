@@ -1,0 +1,18 @@
+total 71984
+drwxrwxr-x 2 omkar omkar     4096 Sep 27 20:48 .
+drwxr-xr-x 5 omkar omkar     4096 Sep 27 18:45 ..
+-rw-rw-r-- 1 omkar omkar  4394644 Sep 26 02:41 asso-myron-608952-unsplash.jpg
+-rwxr-xr-x 1 omkar omkar    22133 Dec 16  2006 foo1
+-rw-rw-r-- 1 omkar omkar     1469 Sep 27 20:36 foo11
+-rw-rw-r-- 1 omkar omkar    99455 Sep 26 15:32 foo11.png
+-rwxr-xr-x 1 omkar omkar     1469 Sep  7  2010 foo2
+-rwxr-xr-x 1 omkar omkar     1339 Jan 17  2007 foo3
+-rw-rw-r-- 1 omkar omkar    99455 Aug 14 16:50 FPS
+-rw-rw-r-- 1 omkar omkar 47189976 Sep 26 18:33 Goal.mp4
+-rw-rw-r-- 1 omkar omkar    11059 Sep 24 21:03 index.jpeg
+-rw-rw-r-- 1 omkar omkar  8129834 Sep 26 04:34 large_img.jpg
+-rw-rw-r-- 1 omkar omkar        0 Sep 27 20:48 list.txt
+-rw-rw-r-- 1 omkar omkar 13701357 Sep 26 18:25 ozil_goal.mp4
+-rwxrwxr-x 1 omkar omkar    14648 Sep 27 20:47 server
+-rw-rw-r-- 1 omkar omkar     3314 Sep 24 16:15 server.c
+-rwxr-xr-x 1 omkar omkar     7567 Sep 27 20:47 udp_server.c
